@@ -1,0 +1,20 @@
+Fråga lab 6
+
+Lite sugen på att snygga till det också.
+Hade nog kunnat lägga loopen i mol istället.
+gillar inte heller det här att alltid behöva kolla om kön är tom… reguljära uttryck eller returnera nåt takigt från LinkedQ när tomt.
+
+
+Kan tycka att det är lte konstigt att ()3 ska gå igenom. Stämmer ej med syntax.
+
+Ev skriva ut en snabb specifikation om jag har gott om tid. Bra att peka på. Annars bara koden kanske?
+
+Tll redovisning:
+-Beskriva hur rekursiv medåkning fungerar.
+BNF för mol använder sig av rekursiv medåkning och vi kan ha en eller oänligt antal följande grupper. I koden blir det mer att den bara alltid letar grupp efter grupp tills formeln är slut
+
+Visa hur dina funktioner speglar den givna syntaxen.
+Man hoppar ju liksom mellan varje funktion beroende på tecken. ( ger ny mol-koll och ) avslutar just den rekursionsnivån
+
+Förklara varför man inte måste räkna antalet parenteser.
+För att varje ) avslutar en rekursionsnivå. Finns det för många blir en gruppstart fel och blir det för få så kommer vi aldrig upp till "högsta" rekursionsnivån.

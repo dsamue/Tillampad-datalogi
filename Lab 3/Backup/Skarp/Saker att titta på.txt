@@ -1,0 +1,4 @@
+Tilda lab 3
+
+- Fattar inte riktigt grejen med varför vi ska ha rekursivt eller varför vi anropar en funktion utanför klassen.
+

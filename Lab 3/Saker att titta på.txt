@@ -1,0 +1,6 @@
+Tilda lab 3
+
+- Fattar inte riktigt grejen med varför vi ska ha rekursivt eller varför vi anropar en funktion utanför klassen.
+
+- Rekursionserror vid fler loopar än 999 är en begränsning i python.
+Varför använder vi det då eller finns det nåt annat lösning? Problemet var om jag vill läsa in en riktigt stor fil som låg i bokstavsordning för att testa söktider. Då blev ju allt bara en enda långa högergren (kanske inte spelar nån roll dock).

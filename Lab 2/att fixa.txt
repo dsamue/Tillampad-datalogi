@@ -1,0 +1,5 @@
+Fråga om variabelnamn i 2.6 vs extra.  stack vs. "korthög" för en ny stack t.ex?
+
+
+Övrigt:
+python3 ~/Desktop/blomma.py funkar för att köra programmet i terminalen

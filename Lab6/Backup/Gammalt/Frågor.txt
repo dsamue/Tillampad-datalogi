@@ -1,0 +1,3 @@
+Fråga lab 6
+
+Måste fråga om detta är rätt tänkt eller om (och hur!) vi ska använda reguljära uttryck..

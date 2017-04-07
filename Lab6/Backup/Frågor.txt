@@ -1,0 +1,11 @@
+Fråga lab 6
+
+Måste fråga om detta är rätt tänkt eller om (och hur!) vi ska använda reguljära uttryck.. förekommer iofs inte i frl-anteck. MÅSTE EJ ANVÄNDA REGULJÄRA UTTRYCK
+
+MÅSTE KOLLA ATT DET ÄR EN KORREKT ATOM. MOT DOM 18 FÖRTA. Xx ej ok
+
+Kolla mer på hur det ser ut i F10
+
+Läs mer under instruktionerna på tilda. Står rätt bra om ordningen där.
+
+Styr upp nummerfunktionen isdigit vid tom kö.. fattar ej varför inte trasslat förut. Kolla i gammla koden kanske…

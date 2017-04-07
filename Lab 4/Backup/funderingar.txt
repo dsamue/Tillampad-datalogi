@@ -1,0 +1,5 @@
+lab 4
+
+-bör jag alltid lägga programmet i en loop/meny? hur jag isf det i kom med sysexit?
+-felhantering? längre ord är tre bokstäver tex?
+-bättre instruktioner?

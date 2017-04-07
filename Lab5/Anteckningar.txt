@@ -1,0 +1,16 @@
+python3 ~/Desktop/Tilda/Lab5/storfil.py  funkar för att köra i terminal
+
+Få koll på Unit testing  (Håll det på låg nivå)
+Skriv nån mer testfunktion
+
+Skulle vilja få lite hjälp med hur jag ska tänka runt testningen. Var ska inläsningen av filen göras? Hur testar jag alla atomer osv?
+
+
+-------------------------------------------
+
+Nyhashfil2 är en shysst allmän hashtabell
+
+huvuproglab5 utan grafik har lite trasig avsluta-funktion men skitsamma.
+
+borde kanske sammanfatta alla små grejer jag lärt mig under labkursen
+
